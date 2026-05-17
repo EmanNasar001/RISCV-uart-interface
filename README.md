@@ -92,6 +92,4 @@ Edit these defines at the top of uart_interface.c:
 
 ---
 
- |
-| Not a TTY device | Path is not a serial port | Use correct /dev/ttyS* or /dev/ttyUSB* |
-| Timeout, 0 bytes received | Nothing sending back | Use loopback wire or socat pair |
+|
